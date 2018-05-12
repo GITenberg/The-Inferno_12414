@@ -1,5 +1,5 @@
 _repo: The-Inferno_12414
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: L'Enfer. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '3022'
     url: http://www.gutenberg.org/2009/agents/3022
     wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barbusse, Henri
@@ -23,6 +26,8 @@ description: A lone young man spies through a hole in the wall of his hotel room
   adultery and incest. The story was condemned on its English release as gross voyeurism,
   but can also be read as the education of one isolated individual in the tragedy
   of life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12414#The-Inferno
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
